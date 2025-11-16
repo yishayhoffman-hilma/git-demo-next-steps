@@ -16,3 +16,4 @@ if (new Date().getMonth() === 20) {
 document.getElementsByTagName("button")[0].addEventListener("click", () => {
 	alert("hi");
 });
+
