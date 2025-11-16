@@ -17,4 +17,3 @@ document.getElementsByTagName("button")[0].addEventListener("click", () => {
 	alert("hi");
 });
 
-//my comment
